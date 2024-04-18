@@ -1,7 +1,3 @@
-#### Data Exploration:
-
-#### Data type analysis:
-
 ### Total columns in the "customers" table: 15
 Data types:
 Integer: 7
